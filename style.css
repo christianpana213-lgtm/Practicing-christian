@@ -1,0 +1,15 @@
+img {
+  height: 300;
+  width: 300px;
+}
+pre {
+  margin-left: 10px;
+}
+h6 {
+  margin: auto;
+}
+h1 {
+  border-style: inset;
+  text-shadow: 1px 1px 3px #40A9FF;
+  border-color: #9BD2FF;
+}
